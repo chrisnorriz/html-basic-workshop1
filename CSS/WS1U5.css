@@ -1,0 +1,47 @@
+body
+	{
+		background-color:	#eaeaea;
+		font-size:	#3a3a3a;
+		font-family:	Helvetica, Arial, sans-serif;
+	}
+p
+	{
+		width:	300px;
+	}
+a
+	{
+		text-decoration:	none;
+	}
+img
+	{
+		width:	200px;
+	}
+	
+.dark
+	{
+		background:	#494949;
+		color: white;
+	}
+
+.credit
+	{
+		font-size:	10px;
+	}
+	
+.margin
+	{
+		text-align:	justify;
+	}
+	
+#menu
+	{
+		width:	100%;
+		background-color:	#f7f7f7;
+		text-align:	center;
+	}
+
+#primary
+	{
+		font-family:	Times New Roman, serif;
+		font-style:		italic;
+	}
